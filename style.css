@@ -1,0 +1,101 @@
+.rang{
+    background-image: linear-gradient(to top,rgba(170, 157, 255, 1), rgb(90, 74, 163));
+    background-repeat: no-repeat;
+}
+
+.bigpart{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(35, 28, 45, 0.899);
+    transition: 0.4s;
+    margin-left: 400px;
+    border-radius: 30px;
+    box-shadow: 3px 4px 10px;
+
+}
+
+.heading{
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+    padding-top: 20px;
+    
+}
+
+.t{
+    margin-left: 100px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+}
+
+.b{
+    color: white;
+    margin-left: 30px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+}
+
+.i1{
+    border-radius: 30px;
+    margin-left: 37px;
+    width: 80%;
+    background-color: rgba(170, 157, 255, 0.222);
+    transition: 0.4s;
+}
+.tip{
+    margin-left: 30px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+}
+
+.i2{
+    border-radius: 30px;
+    margin-left: 37px;
+    width: 80%;
+    background-color: rgba(170, 157, 255, 0.222);
+    transition: 0.4s;
+}
+
+.i1:hover,.i2:hover{
+    cursor:pointer;
+    background-color: rgba(170, 157, 255, 0.429);
+}
+.p{
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+}
+
+.pre{
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+    color: white;
+}
+
+
+.circle{
+    border-radius: 50px;
+    display: inline;
+    color: rgba(170, 157, 255, 1);
+    background-color: rgba(170, 157, 255, 1);
+    transition: 0.4s;
+}
+
+
+.circle:hover{
+    background-color: rgb(196, 187, 252);
+    cursor: pointer;
+}
+
+.pb1{
+    display: inline;
+}
